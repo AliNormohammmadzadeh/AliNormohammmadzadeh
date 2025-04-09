@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm TEB from Iran (LFJ)<br><br>- 🔭 I’m working as Full-stack developer and software developer <br>- 📚 I'm currently learning Rust  <br>- 👯 I’m looking to collaborate <br>- ⚡ Enjoy coding</p>
+<p align="left">I'm TEB from Iran <br><br>- 🔭 I’m working as Full-stack developer and software developer <br>- 📚 I'm currently learning Rust  <br>- 👯 I’m looking to collaborate <br>- ⚡ Enjoy coding</p>
 
 ###
 
